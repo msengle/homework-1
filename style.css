@@ -1,0 +1,44 @@
+body
+{background-image: url("background.jpg");
+background-repeat: no-repeat;
+background-position: center;
+background-size: 900px;
+}
+
+h1 {
+    color: black;
+    font-size: 60px;
+    text-align: center;
+    font-family: courier;
+    background-color: white;
+    }
+h2 {
+    color: black;
+    font-size: 30px;
+    text-align: center;
+    font-family: courier;
+    background-color: white;
+    }
+p {
+    color: black;
+    font-size: 18px;
+    text-align: center;
+    font-family: courier;
+    background-color: white;
+  }
+div {text-align: center}
+.center-image
+  {margin: 100px 0px 0px 0px;
+    width: 200px;}
+.social-icon
+  {width: 40px;
+    margin: 0px 0px 200px 0px;
+    background-color: white;
+  }
+
+p {margin: 20px 300px 30px 300px}
+
+.method
+ {
+ width:500px;
+}
